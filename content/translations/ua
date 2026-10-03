@@ -1,0 +1,402 @@
+;meta[language=ua]
+;    id    |key(hex)|                  key(str)                   |        text
+;*
+;*   Translated By: elartix (so I can credit you.)
+;*                                                _  _ ____ _ _  _    _  _ ____ _  _ _  _
+;*                                                |\/| |__| | |\ |    |\/| |___ |\ | |  |
+;*                                                |  | |  | | | \|    |  | |___ | \| |__|
+;*                                                =======================================
+;*
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509000|4d5f8b0c|                 panel_Mods                  |Моди
+ 2111509001|159d109b|             panel_gmConfig_Menu             |Режим Бога
+ 2111509002|c8971318|        preset_value_gmConfig_Default        |За замовчуванням
+ 2111509003|7ed0d525|        option_gmConfig_resetSettings        |Скинути всі налаштування
+ 2111509004|e5e384e6|             gmConfig_resetting              |Мод «Режим Бога»<br>---------<br>Відновлення налаштувань за замовчуванням
+ 2111509005|ddbbad0a|             gmConfig_unlimited              |Мод «Режим Бога»<br>-------------<br>Тепер у вас <font color='#ff0000'>НЕОБМЕЖЕНІ</font> болти, бомби, барвники, зачарування, гроші, заряди олій, зілля та тривалість дії зіль.
+;2111509006|        |                                             |
+;2111509007|        |                                             |
+;2111509008|        |                                             |
+;2111509009|        |                                             |
+ 2111509010|620e8d9d|         option_gmConfig_IgnoreThis          |Ігноруйте це налаштування. Воно тут лише для відображення повідомлення в меню.
+ 2111509011|24dfb314|            panel_gmConfig_Notice            |Будь ласка, почніть або завантажте гру перед зміною налаштувань
+ 2111509012|3412db4f|               gmConfig_Notice               |Будь ласка, почніть або завантажте гру перед зміною налаштувань
+ 2111509013|9d6cfd98|            panel_gmConfig_Blank             |<br>
+ 2111509014|8d6661fd|               gmConfig_Blank                |<br>
+;2111509015|________|_____________________________________________|___________________________________________________________
+;2111509016|                                   ____ ___ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509017|                                   [__   |  |__|  |  [__     |\/| |___ |\ | |  |
+;2111509018|                                   ___]  |  |  |  |  ___]    |  | |___ | \| |__|
+;2111509019|                                   =============================================
+;2111509020|
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509022|9e6030e3|            panel_gmConfig_Stats             |Характеристики персонажа
+ 2111509023|9464a77f|  preset_Mods_gmConfig_Menu_gmConfig_Stats   |Пресет характеристик персонажа
+ 2111509024|e31f3827|     option_gmConfig_enableTakeNoDamage      |Не отримувати шкоди
+ 2111509025|cbcca976|       option_gmConfig_enableNoFalling       |Не отримувати шкоди від падіння
+;2111509026|        |                                             |
+ 2111509027|9708fc24|       option_gmConfig_enableMaxFocus        |Необмежена концентрація / адреналін
+ 2111509028|b0d3d6bb|      option_gmConfig_enableMaxStamina       |Необмежена витривалість
+;2111509029|        |                                             |
+ 2111509030|a1528396|        option_gmConfig_enableMaxAir         |Необмежене дихання
+;2111509031|        |                                             |
+;2111509032|        |                                             |
+;2111509033|        |                                             |
+;2111509034|        |                                             |
+;2111509035|        |                                             |
+;2111509036|        |                                             |
+ 2111509037|b65ab8f8|          preset_value_gmConfig_Add          |Додати
+ 2111509038|e49144cd|        preset_value_gmConfig_Remove         |Видалити
+;2111509039|        |                                             |
+ 2111509040|8bd5faba|       option_gmConfig_enableMutations       |Увімкнути мутації (УВАГА: назавжди)
+ 2111509041|91a0808c|          option_gmConfig_modeLife           |Режим невразливості
+ 2111509042|0b47e8e7|  preset_value_gmConfig_modeLife_secondlife  |«Друге життя»
+ 2111509043|4cdaac1d|   preset_value_gmConfig_modeLife_undying    |«Безсмертний»
+ 2111509044|7d5fa3ef|     preset_value_gmConfig_modeLife_none     |Вимк.
+ 2111509045|        |                                             |
+;2111509046|        |                                             |
+;2111509047|        |                                             |
+;2111509048|        |                                             |
+;2111509049|        |                                             |
+;2111509050|________|_____________________________________________|___________________________________________________________
+;2111509051                                   ____ ____ _  _ ____ ____    _  _ ____ _  _ _  _
+;2111509052                                   [__  |___ |\ | [__  |___    |\/| |___ |\ | |  |
+;2111509053                                   ___] |___ | \| ___] |___    |  | |___ | \| |__|
+;2111509054                                   ===============================================
+;2111509055
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509057|9e598ff2|            panel_gmConfig_Sense             |Відьмацьке чуття
+ 2111509058|945e068e|  preset_Mods_gmConfig_Menu_gmConfig_Sense   |Пресет відьмацького чуття
+ 2111509059|9423f47f|      option_gmConfig_enableSenseRange       |Збільшення дальності чуття
+ 2111509060|8aa55914|      option_gmConfig_amountSenseRange       |Величина збільшення дальності
+ 2111509061|555c18a3|     option_gmConfig_enableSenseInstant      |Миттєве чуття (без плавної появи)
+ 2111509062|95de225f|     option_gmConfig_enableSenseJumpRun      |Стрибок/спринт під час чуття
+;2111509063|        |                                             |
+;2111509064|        |                                             |
+;2111509065|        |                                             |
+;2111509066|        |                                             |
+;2111509067|        |                                             |
+;2111509068|        |                                             |
+;2111509069|        |                                             |
+;2111509070|        |                                             |
+;2111509071|        |                                             |
+;2111509072|        |                                             |
+;2111509073|        |                                             |
+;2111509074|        |                                             |
+;2111509075|        |                                             |
+;2111509076|        |                                             |
+;2111509077|________|_____________________________________________|___________________________________________________________
+;2111509078                              ____ ____ ____ ____ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509079                              |___ |___ |___ |___ |     |  [__     |\/| |___ |\ | |  |
+;2111509080                              |___ |    |    |___ |___  |  ___]    |  | |___ | \| |__|
+;2111509081                              ========================================================
+;2111509082
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509084|8adbe446|           panel_gmConfig_Effects            |Ефекти
+ 2111509085|119d23e2| preset_Mods_gmConfig_Menu_gmConfig_Effects  |Пресет ефектів
+ 2111509086|2c45266d|     option_gmConfig_enableNoEncumbered      |Необмежена вантажопідйомність
+ 2111509087|a463ed41|      option_gmConfig_enableQuenNoBreak      |Квен не руйнується від шкоди
+ 2111509088|38dd1e77|       option_gmConfig_timeQuenNoBreak       |Тривалість Квену (у сек.) (0 — за замовчуванням)
+ 2111509089|ed7d8c49|      option_gmConfig_enableSetToxicity      |Встановити інтоксикацію
+ 2111509090|09b3b441|     option_gmConfig_percentSetToxicity      |Інтоксикація %
+ 2111509091|9bebbe18|  option_gmConfig_enableNoToxicityCamEffect  |Без ефекту камери від інтоксикації
+ 2111509092|93f6beed|         option_gmConfig_typeWeather         |Встановити погодні умови
+ 2111509093|b65aedc6|          preset_value_gmConfig_off          |Вимкнено
+ 2111509094|ac3e09de|    preset_value_gmConfig_typeWeather_sun    |Ясно
+ 2111509095|db827242|   preset_value_gmConfig_typeWeather_rain    |Злива
+ 2111509096|db831831|   preset_value_gmConfig_typeWeather_snow    |Сніг
+ 2111509097|ca1180db|          option_gmConfig_effImmune          |Показати імунітет до ефектів
+ 2111509098|bffcdab3|       option_gmConfig_effImmune_burn        |Горіння
+ 2111509099|cbbc4eec|      option_gmConfig_effImmune_poison       |Отруєння
+ 2111509100|3f9a32d6|       option_gmConfig_effImmune_bleed       |Кровотеча
+ 2111509101|52922c49|      option_gmConfig_effImmune_stagger      |Хитання
+ 2111509102|401a1470|       option_gmConfig_effImmune_knock       |Збивання з ніг
+;2111509103|        |                                             |
+;2111509104|        |                                             |
+;2111509105|        |                                             |
+;2111509106|        |                                             |
+;2111509107|        |                                             |
+;2111509108|        |                                             |
+;2111509109|        |                                             |
+;2111509110|        |                                             |
+;2111509111|________|_____________________________________________|___________________________________________________________
+;2111509112                                     _ ___ ____ _  _ ____    _  _ ____ _  _ _  _
+;2111509113                                     |  |  |___ |\/| [__     |\/| |___ |\ | |  |
+;2111509114                                     |  |  |___ |  | ___]    |  | |___ | \| |__|
+;2111509115                                     ===========================================
+;2111509116
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509118|9dd35404|            panel_gmConfig_Items             |Предмети
+ 2111509119|93d7caa0|  preset_Mods_gmConfig_Menu_gmConfig_Items   |Пресет предметів
+ 2111509120|0d5b7380|      option_gmConfig_enableNoItemLevel      |Без вимог до рівня предмета
+ 2111509121|f2625f6f|   option_gmConfig_enableUnlimitedPotions    |Необмежені зілля
+ 2111509122|f2603084| option_gmConfig_enableUnlimitedPotDura      |Необмежена тривалість зіль
+ 2111509123|c6795000|    option_gmConfig_enableUnlimitedBombs     |Необмежені бомби
+ 2111509124|c6794e6d|    option_gmConfig_enableUnlimitedBolts     |Необмежені болти
+ 2111509125|d93508ca|       option_gmConfig_enableNoReload        |Без перезаряджання арбалетів
+ 2111509126|8ec4dd9e|  option_gmConfig_enableUnlimitedOilCharges  |Необмежені заряди олій
+ 2111509127|c71456af|    option_gmConfig_enableUnlimitedMoney     |Необмежені гроші
+ 2111509128|1081fde5|    option_gmConfig_enableStealingAllowed    |Крадіжка дозволена
+ 2111509129|3ed7a43d|     option_gmConfig_enableMaxDurability     |Без втрати міцності
+;2111509130|        |                                             |
+;2111509131|        |                                             |
+ 2111509132|09fd9d42|    option_gmConfig_enableUnlimitedChants    |Необмежені зачарування
+ 2111509133|c7678c24|    option_gmConfig_enableUnlimitedSlots     |Необмежені слоти для рун
+ 2111509134|8a891834|     option_gmConfig_enableUnlimitedDyes     |Необмежені барвники
+;2111509135|        |                                             |
+;2111509136|        |                                             |
+ 2111509137|c6de1daf|    option_gmConfig_enableUnlimitedItems     |Усе необмежено (зілля й тривалість/бомби/болти/гроші/барвники)
+ 2111509138|4931a237|     option_gmConfig_enableFreeResearch      |Безкоштовне дослідження мутацій
+ 2111509139|2af51f95|     option_gmConfig_enableSuperPotions      |Суперзілля (усі ефекти з одного)
+ 2111509140|38fc2f03|     option_gmConfig_enableSuperMutagens     |Супермутагени (усі ефекти з одного)
+;2111509141|        |                                             |
+;2111509142|        |                                             |
+;2111509143|        |                                             |
+;2111509144|        |                                             |
+;2111509145|        |                                             |
+;2111509146|        |                                             |
+;2111509147|        |                                             |
+;2111509148|        |                                             |
+;2111509149|        |                                             |
+;2111509150|________|_____________________________________________|___________________________________________________________
+;2111509151                                       _  _ _ ____ ____    _  _ ____ _  _ _  _
+;2111509152                                       |\/| | [__  |       |\/| |___ |\ | |  |
+;2111509153                                       |  | | ___] |___    |  | |___ | \| |__|
+;2111509154                                       =======================================
+;2111509155
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509157|159d2028|             panel_gmConfig_Misc             |Інше
+ 2111509158|7021660c|   preset_Mods_gmConfig_Menu_gmConfig_Misc   |Пресет іншого
+;2111509159|        |                                             |
+;2111509160|        |                                             |
+ 2111509161|167fb7ef|     option_gmConfig_enableMutagenUnlock     |Розблокувати всі слоти мутагенів
+;2111509162|        |                                             |
+ 2111509163|fb907da7|     option_gmConfig_enableYesNegotiate      |Завжди приймати пропозиції
+ 2111509164|3c07f0d3|       option_gmConfig_enableWinGwint        |Перемога у Гвинті при здачі
+;2111509165|        |                                             |
+;2111509166|        |                                             |
+;2111509167|        |                                             |
+;2111509168|        |                                             |
+;2111509169|        |                                             |
+;2111509170|        |                                             |
+ 2111509171|08b806f6|        option_gmConfig_enableTitanic        |Човни не отримують шкоди
+;2111509172|        |                                             |
+;2111509173|        |                                             |
+;2111509174|        |                                             |
+;2111509175|        |                                             |
+;2111509176|        |                                             |
+;2111509177|________|_____________________________________________|___________________________________________________________
+;2111509178                                 ____ ____ ____ ____ ___ _ _  _ ____    _  _ ____ _  _ _  _
+;2111509179                                 |    |__/ |__| |___  |  | |\ | | __    |\/| |___ |\ | |  |
+;2111509180                                 |___ |  \ |  | |     |  | | \| |__]    |  | |___ | \| |__|
+;2111509181                                 ==========================================================
+;2111509182
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509184|9d7dce64|            panel_gmConfig_Craft             |Крафт
+ 2111509185|93824500|  preset_Mods_gmConfig_Menu_gmConfig_Craft   |Пресет крафту
+ 2111509186|c410625e|     option_gmConfig_enableFreeCrafting      |Крафт не витрачає матеріали/крони
+ 2111509187|2d5a1691|     option_gmConfig_enableNoMatCrafting     |Крафт не потребує матеріалів
+ 2111509188|89fa5273|    option_gmConfig_enableInstantCrafting    |Миттєвий крафт
+ 2111509189|5607a86b|     option_gmConfig_enableCraftAnywhere     |Крафт будь-чого у всіх майстрів
+;2111509190|        |                                             |
+;2111509191|        |                                             |
+;2111509192|        |                                             |
+;2111509193|        |                                             |
+;2111509194|        |                                             |
+;2111509195|        |                                             |
+;2111509196|        |                                             |
+;2111509197|        |                                             |
+;2111509198|        |                                             |
+;2111509199|        |                                             |
+;2111509200|        |                                             |
+;2111509201|        |                                             |
+;2111509202|        |                                             |
+;2111509203|        |                                             |
+;2111509204|________|_____________________________________________|___________________________________________________________
+;2111509205                                _  _ ____ _  _ ____ _  _ ____ _  _ ___    _  _ ____ _  _ _  _
+;2111509206                                |\/| |  | |  | |___ |\/| |___ |\ |  |     |\/| |___ |\ | |  |
+;2111509207                                |  | |__|  \/  |___ |  | |___ | \|  |     |  | |___ | \| |__|
+;2111509208                                =============================================================
+;2111509209
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509211|0713fdeb|           panel_gmConfig_Movement           |Рух
+ 2111509212|587ab1cf| preset_Mods_gmConfig_Menu_gmConfig_Movement |Пресет руху
+ 2111509213|4b5e38a1|       option_gmConfig_amountRunSpeed        |Множник швидкості бігу
+ 2111509214|0f0bed5b|       option_gmConfig_enableCallRoach       |Миттєво покликати Плітку
+ 2111509215|e3a3a8ac|      option_gmConfig_behaviorCallRoach      |Поведінка виклику Плітки
+ 2111509216|b70b8eaa|preset_value_gmConfig_behaviorCallRoach_mount|Миттєво викликати й сісти верхи
+ 2111509217|a2cf1f77|preset_value_gmConfig_behaviorCallRoach_near |Миттєво викликати поруч
+ 2111509218|dc862066|   option_gmConfig_enableMaxRidingStamina    |Витривалість під час їзди верхи
+ 2111509219|9dbbb116|     option_gmConfig_enableNoRidingFear      |Кінь не боїться / може галопувати в містах
+ 2111509220|9e68a7ae|         option_gmConfig_enablePins          |Показувати невідкриті позначки
+ 2111509221|7af1788b| preset_value_gmConfig_enablePins_fasttravel |Лише швидке переміщення
+ 2111509222|9cb32caa|  preset_value_gmConfig_enablePins_allpins   |Усі позначки, невідкриті
+ 2111509223|8577cb27|preset_value_gmConfig_enablePins_allshowpins |Усі позначки, відкриті
+ 2111509224|313c64a6|      option_gmConfig_enableFastTravel       |Швидке переміщення звідусіль
+ 2111509225|53115df8|      option_gmConfig_enableJumpSprint       |Біг/стрибки будь-де
+ 2111509226|c3ab3201|      option_gmConfig_enableImmuneKnock      |Імунітет до хитання та збивання з ніг
+;2111509227|        |                                             |
+;2111509228|        |                                             |
+;2111509229|        |                                             |
+;2111509230|        |                                             |
+;2111509231|________|_____________________________________________|___________________________________________________________
+;2111509232                                    ___  ____ _  _ ____ ____ ____    _  _ ____ _  _ _  _
+;2111509233                                    |  \ |__| |\/| |__| | __ |___    |\/| |___ |\ | |  |
+;2111509234                                    |__/ |  | |  | |  | |__] |___    |  | |___ | \| |__|
+;2111509235                                    ====================================================
+;2111509236
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509238|1306a7ab|            panel_gmConfig_Damage            |Шкода
+ 2111509239|dd91048f|  preset_Mods_gmConfig_Menu_gmConfig_Damage  |Пресет шкоди
+ 2111509240|0abd7843|     option_gmConfig_amountCBDamageMult      |Множник шкоди (арбалет)
+ 2111509241|cbecb3e4|      option_gmConfig_amountDamageMult       |Множник шкоди (загальний)
+ 2111509242|6028a186|    option_gmConfig_amountBombDamageMult     |Множник шкоди (бомба)
+ 2111509243|75653364|     option_gmConfig_amountFFDamageMult      |Множник шкоди (кулачний бій)
+ 2111509244|6907ad04|     option_gmConfig_amountSSDamageMult      |Множник шкоди (меч)
+ 2111509245|7b8a7243|     option_gmConfig_amountDoTDamageMult     |Множник шкоди (періодична шкода)
+ 2111509246|955f5ee1|    option_gmConfig_amountSignDamageMult     |Множник шкоди (знак)
+ 2111509247|ac6aafbd|       option_gmConfig_enableCustomDmg       |Множник шкоди (увімкнено)
+;2111509248|        |                                             |
+;2111509249|        |                                             |
+;2111509250|        |                                             |
+;2111509251|        |                                             |
+;2111509252|        |                                             |
+;2111509253|        |                                             |
+;2111509254|        |                                             |
+;2111509255|        |                                             |
+;2111509256|        |                                             |
+;2111509257|        |                                             |
+;2111509258|________|_____________________________________________|___________________________________________________________
+ 2111509259|        |         option_gmConfig_Gore                |Кривавість
+ 2111509260|        |    preset_Mods_gmConfig_Menu_gmConfig_Gore  |Пресет кривавості
+ 2111509261|        |  option_gmConfig_goremodedism               |Режим розчленування
+ 2111509262|        |   preset_value_gmConfig_goremodedism_vanilla|Оригінальний
+ 2111509263|        | preset_value_gmConfig_goremodedism_increased|Підвищений шанс
+ 2111509264|        |   preset_value_gmConfig_goremodedism_manual |Власний шанс (встановіть нижче)
+ 2111509265|        |   preset_value_gmConfig_goremodedism_never  |Ніколи
+ 2111509266|        |     option_gmConfig_goremodedismchance      |Шанс розчленування (для ручного режиму)
+ 2111509267|        | option_gmConfig_goremodefinish              |Режим добивань
+ 2111509268|        |preset_value_gmConfig_goremodefinish_vanilla |Оригінальний
+ 2111509269|        |preset_value_gmConfig_goremodefinish_increased|Підвищений шанс
+ 2111509270|        |preset_value_gmConfig_goremodefinish_manual  |Власний шанс (встановіть нижче)
+ 2111509271|        | preset_value_gmConfig_goremodefinish_never  |Ніколи
+ 2111509272|        |  option_gmConfig_goremodefinishchance       |Шанс добивання (для ручного режиму)
+ 2111509273|        |         panel_gmConfig_Exp                  |Досвід
+ 2111509274|        |    preset_Mods_gmConfig_Menu_gmConfig_Exp   |Пресет досвіду
+ 2111509275|        |  option_gmConfig_fullexp                    |Режим досвіду за квести
+ 2111509276|        |   preset_value_gmConfig_fullexp_vanilla     |Оригінальний
+ 2111509277|        | preset_value_gmConfig_fullexp_full          |Повний досвід за квести
+ 2111509278|        |   preset_value_gmConfig_fullexp_diff        |Повний досвід за квести (зі штрафом за різницю рівнів)
+ 2111509279|        |     option_gmConfig_fullexpmult             |Множник досвіду за квести у %
+ 2111509280|        | option_gmConfig_fullexpkill                 |Режим досвіду за вбивства
+ 2111509281|        |preset_value_gmConfig_fullexpkill_vanilla    |Оригінальний
+ 2111509282|        |preset_value_gmConfig_fullexpkill_full       |Повний досвід за вбивства
+ 2111509283|        |preset_value_gmConfig_fullexpkill_diff       |Повний досвід за вбивства (зі штрафом за різницю рівнів)
+ 2111509284|        |  option_gmConfig_fullexpkillmult            |Множник досвіду за вбивства у %
+ 2111509285|        |option_gmConfig_enableSenseNoZoom            |Без наближення під час чуття
+ 2111509286|        |  option_gmConfig_enableSenseEnableHold      |Перемикач чуття (без утримання)
+ 2111509287|        |  option_gmConfig_disableSenseSound          |Без звукових ефектів чуття та приглушення оточення
+ 2111509288|        |option_gmConfig_disableSenseDimm             |Без затемнення екрана під час чуття
+ 2111509289|        |  option_gmConfig_doubleSenseRange           |Подвійна дальність взаємодії під час чуття
+ 2111509290|        |preset_value_gmConfig_typeWeather_L_Clouds   |Легка хмарність
+ 2111509291|        |preset_value_gmConfig_typeWeather_M_Clouds   |Середня хмарність
+ 2111509292|        |preset_value_gmConfig_typeWeather_M_Cl_Dark  |Середні темні хмари
+ 2111509293|        |preset_value_gmConfig_typeWeather_H_Clouds   |Сильна хмарність
+ 2111509294|        |preset_value_gmConfig_typeWeather_H_Cl_Dark  |Сильні темні хмари
+ 2111509295|        |option_gmConfig_enablePinsWarning            |<font color="#FF0000">УВАГА! Увімкнені позначки залишаються НАЗАВЖДИ!</font><font size="18"> Встановіть параметр і скористайтеся швидким переміщенням, щоб застосувати.</font>
+ 2111509296|        |option_gmConfig_enableKeepRunewords          |Зберігати поліпшення під час зачарування
+;2111509297|________|_____________________________________________|___________________________________________________________
+ 2111509298|        |  option_gmConfig_Add                        |Додати гроші, рівні, очки навичок і досвіду
+ 2111509299|        |option_gmConfig_addMoney                     |Додати гроші (встановіть нижче та увімкніть)
+ 2111509300|        |option_gmConfig_addMoneyCount                |Кількість грошей у тисячах (x1000)
+ 2111509301|        |option_gmConfig_addSkillPoint                |Додати очки навичок (встановіть нижче та увімкніть)
+ 2111509302|        |option_gmConfig_addSkillPointCount           |Кількість очок навичок
+ 2111509303|        |option_gmConfig_addExpPoint                  |Додати очки досвіду (встановіть нижче та увімкніть)
+ 2111509304|        |option_gmConfig_addExpPointCount             |Кількість очок досвіду
+ 2111509305|        |option_gmConfig_addLevel                     |Додати рівні (встановіть нижче та увімкніть)
+ 2111509306|        |option_gmConfig_addLevelCount                |Кількість рівнів
+ 2111509307|        |option_gmConfig_enableNoStartup              |Без вступних відео та попереджень
+ 2111509308|        |option_gmConfig_enableNoRecap                |Без відеопереказів (потрібно повторно увімкнути після перезапуску гри)
+ 2111509309|        |option_gmConfig_damageDealing                |Множники завданої шкоди у %
+ 2111509310|        |option_gmConfig_damageIncoming               |Множники отримуваної шкоди у %
+ 2111509311|        |option_gmConfig_damageIncomingMult           |Отримувана шкода
+ 2111509312|        |option_gmConfig_version                      |<font color="#00FF00" size="30">РЕЖИМ БОГА — Грайте, як хочете — Версія:</font>
+;2111509313|________|_____________________________________________|___________________________________________________________
+ 2111509314|        |option_gmConfig_Merchants                    |Торговці
+ 2111509315|        |option_gmConfig_merchMoney                   |Мінімум грошей у торговців у тисячах (x1000)
+ 2111509316|        |option_gmConfig_merchRestock                 |Час поповнення товарів у торговців (у днях)
+ 2111509317|        |option_gmConfig_unlimitedSkills              |Розблокувати всі слоти навичок
+ 2111509318|        |option_gmConfig_unlimitedLearnSkills         |Вивчати будь-яку навичку
+ 2111509319|        |option_gmConfig_noSkillPoints                |Не витрачати очки навичок
+ 2111509320|        |option_gmConfig_damageDealingO               |Множник завданої шкоди у % для ІНШИХ ворогів
+ 2111509321|        |option_gmConfig_damageDealingH               |Множник завданої шкоди у % для ворогів-ЛЮДЕЙ
+ 2111509322|        |option_gmConfig_damageIncomingMultO          |Отримувана шкода від ІНШИХ ворогів
+ 2111509323|        |option_gmConfig_damageIncomingMultH          |Отримувана шкода від ворогів-ЛЮДЕЙ
+ 2111509324|        |option_gmConfig_show24                       |Завжди показувати 24-годинний формат часу (гг:хх)
+ 2111509325|        |option_gmConfig_noBorders                    |Без телепортації назад на межах мапи <br/><font color="#FF0000">(УВАГА: не заходьте надто далеко!)</font>
+ 2111509326|        |option_gmConfig_keepTorches                  |Зберігати смолоскип на коні, у човні та під час застосування знаків
+ 2111509327|        |option_gmConfig_unlockDoor                   |Відімкнути двері <font size="18">(коли видно підказку взаємодії)<font color="#FF0000"> (УВАГА: не використовуйте на квестових об’єктах!)</font></font>
+ 2111509328|        |option_gmConfig_fasterStop                   |Увімкнути швидшу зупинку після спринту
+ 2111509329|        |option_gmConfig_openQuests                   |Незавершені квести
+ 2111509330|        |option_gmConfig_effImmune_stagger2           |Імунітет до хитання
+ 2111509331|        |option_gmConfig_enableCraftEverywhere        |Крафт будь-де (безкоштовно)
+ 2111509332|        |option_gmConfig_enableFreeDismantle          |Безкоштовне розбирання
+ 2111509333|        |option_gmConfig_enableFreeUpgradeRem         |Безкоштовне видалення поліпшень
+ 2111509334|        |option_gmConfig_enableFreeRepair             |Безкоштовний ремонт
+ 2111509335|        |option_gmConfig_enableUnlimitedUpgrades      |Необмежені поліпшення
+ 2111509336|        |option_gmConfig_enableKeepUpgrades           |Повертати поліпшення після видалення
+ 2111509337|        |option_gmConfig_enableSlotsEverywhere        |Додавання гнізд і зачарування у будь-якого майстра
+ 2111509338|        |option_gmConfig_enableFreeSockets            |Безкоштовне додавання гнізд
+ 2111509339|        |option_gmConfig_openBeasts                   |Бестіарій
+ 2111509340|        |option_gmConfig_openAlchemy                  |Алхімія
+ 2111509341|        |option_gmConfig_openCrafting                 |Крафт
+ 2111509342|        |option_gmConfig_openBooks                    |Книги
+ 2111509343|        |option_gmConfig_openTutorials                |Навчання
+ 2111509344|        |option_gmConfig_Open                         |Тримати пункти меню відкритими протягом
+ 2111509345|        |option_gmConfig_enableSellAll                |Продавати всі типи предметів у кожній крамниці
+ 2111509346|        |option_gmConfig_merchFundMod                 |Модифікатор фінансів торговців у %
+ 2111509347|        |option_gmConfig_merchBuyMod                  |Модифікатор цін купівлі торговцями (ви продаєте) у %
+ 2111509348|        |option_gmConfig_merchSellMod                 |Модифікатор цін продажу торговцями (ви купуєте) у %
+ 2111509349|        |option_gmConfig_merchBasePrice               |Продаж/купівля у торговців за базовими цінами (без прибутку чи збитку)
+ 2111509350|        |option_gmConfig_counterForce                 |Парирування завжди спричиняє контратаку (якщо можливо)
+ 2111509351|        |option_gmConfig_counterMod                   |Множник часу для контратаки
+ 2111509352|        |option_gmConfig_skillPointsAdd               |Додаткові очки навичок за рівень
+ 2111509353|        |option_gmConfig_skillPointsFixed             |Фіксована кількість очок навичок за рівень (0 = оригінал)
+ 2111509354|        |option_gmConfig_Skills                       |Налаштування навичок і мутагенів
+ 2111509355|        |option_gmConfig_Exp                          |Налаштування досвіду
+ 2111509356|        |option_gmConfig_enableNoDrunk                |Без ефекту сп’яніння на екрані
+ 2111509357|        |panel_gmConfig_Exp2                          |Досвід і навички
+ 2111509358|        |preset_Mods_gmConfig_Menu_gmConfig_Exp2      |Пресет досвіду й навичок
+ 2111509359|        |option_gmConfig_enableGMAll                  |Бонуси комплектів не потребують рівня гросмейстера
+ 2111509360|        |option_gmConfig_setMinor                     |Кількість частин комплекту для малого бонусу (перезавантажте збереження для застосування)
+ 2111509361|        |option_gmConfig_setMajor                     |Кількість частин комплекту для великого бонусу (перезавантажте збереження для застосування)
+ 2111509362|        |option_gmConfig_enableNoBombs                |Не потрібні бомби для знищення гнізд
+ 2111509363|        |option_gmConfig_build                        |Збірка:
+ 2111509364|        |preset_value_gmConfig_enablePins_removepins  |Видалити додані позначки
+ 2111509365|        |option_gmConfig_enableSteelDamagesEssence    |Сталевий меч завдає шкоди монстрам<font size="14"> (ПІДКАЗКА: увімкніть ручне діставання меча в налаштуваннях)</font>
+ 2111509366|        |option_gmConfig_enableSilverDamagesVitality  |Срібний меч завдає шкоди не-монстрам<font size="14"> (ПІДКАЗКА: увімкніть ручне діставання меча в налаштуваннях)</font>
+ 2111509367|        |option_gmConfig_amountSteelSDamageMult       |Множник шкоди (сталевий меч)
+ 2111509368|        |option_gmConfig_amountSilverSDamageMult      |Множник шкоди (срібний меч)
+ 2111509369|        |option_gmConfig_damageDealingV               |Множник завданої шкоди у % для інших ворогів, що НЕ Є МОНСТРАМИ
+ 2111509370|        |option_gmConfig_damageDealingE               |Множник завданої шкоди у % для ворогів-МОНСТРІВ
+ 2111509371|        |option_gmConfig_damageIncomingMultV          |Отримувана шкода від інших ворогів, що НЕ Є МОНСТРАМИ
+ 2111509372|        |option_gmConfig_damageIncomingMultE          |Отримувана шкода від ворогів-МОНСТРІВ
+ 2111509373|        |option_gmConfig_enableCatSenseDark           |Увімкнути котяче чуття в темних місцях
+ 2111509374|        |option_gmConfig_enableCatSenseNight          |Увімкнути котяче чуття вночі
+ 2111509375|        |option_gmConfig_disableFocusCorpses          |Вимкнути частинки трупів
+ 2111509376|        |option_gmConfig_disableFocusMonsters         |Вимкнути звукові підказки монстрів
+ 2111509377|        |option_gmConfig_catSenseBrightness           |Яскравість ефекту котячого чуття (за замовчуванням 350)
+ 2111509378|        |option_gmConfig_catSenseRange                |Дальність ефекту котячого чуття (за замовчуванням 200)
+ 2111509379|        |option_gmConfig_disableCatOnLight            |Призупиняти ефект зілля «Кіт» на світлі
+ 2111509380|        |option_gmConfig_effectCatBrightness          |Яскравість ефекту зілля «Кіт» (за замовчуванням 350)
+ 2111509381|        |option_gmConfig_effectCatRange               |Дальність ефекту зілля «Кіт» (за замовчуванням 200)
+ 2111509382|        |option_gmConfig_CatSense                     |Котяче чуття
+ 2111509383|        |option_gmConfig_effectCatColorR              |Колір ефекту зілля «Кіт» <font color="#FF0000">ЧЕРВОНИЙ</font> (за замовчуванням 0.10)
+ 2111509384|        |option_gmConfig_effectCatColorG              |Колір ефекту зілля «Кіт» <font color="#00FF00">ЗЕЛЕНИЙ</font> (за замовчуванням 0.12)
+ 2111509385|        |option_gmConfig_effectCatColorB              |Колір ефекту зілля «Кіт» <font color="#0000FF">СИНІЙ</font> (за замовчуванням 0.13)
+ 2111509386|        |option_gmConfig_catSenseColorR               |Колір ефекту котячого чуття <font color="#FF0000">ЧЕРВОНИЙ</font> (за замовчуванням 0.10)
+ 2111509387|        |option_gmConfig_catSenseColorG               |Колір ефекту котячого чуття <font color="#00FF00">ЗЕЛЕНИЙ</font> (за замовчуванням 0.12)
+ 2111509388|        |option_gmConfig_catSenseColorB               |Колір ефекту котячого чуття <font color="#0000FF">СИНІЙ</font> (за замовчуванням 0.13)
+ 2111509389|        |option_gmConfig_rewardGoldMult               |Множник золота за нагороди у %
+ 2111509390|        |option_gmConfig_enableJumpSprintInt          |Біг/спринт у приміщеннях (перезавантажте після зміни)
+ 2111509391|        |option_gmConfig_disableSenseHerbs            |Вимкнути підсвічування трав
